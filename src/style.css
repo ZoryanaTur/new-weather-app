@@ -21,14 +21,34 @@ ul {
   margin: 0;
   padding: 0;
 }
+img {
+  margin-right: 5px;
+  height: 64px;
+  width: 64px;
+  position: relative;
+  top: -15px;
+}
 .weather-app {
   max-width: 600px;
-  margin: 30px auto;
-  padding: 20px;
+  margin: 40px auto;
+  padding: 20px 20px 0;
   border: 1px solid #d9dce0;
   border-radius: 6px;
   margin-bottom: 0;
 }
 .sourse {
   margin-left: 350px;
+}
+.units {
+  position: relative;
+  top: -35px;
+}
+.overview {
+  margin-bottom: 20px;
+}
+.temperature {
+  font-size: 64px;
+  font-weight: 400;
+  color: #202124;
+  line-height: 0.5;
 }
