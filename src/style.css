@@ -52,3 +52,6 @@ img {
   color: #202124;
   line-height: 0.5;
 }
+.description {
+  text-transform: capitalize;
+}
