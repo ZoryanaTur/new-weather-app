@@ -42,6 +42,7 @@ img {
 .units {
   position: relative;
   top: -35px;
+  text-decoration: none;
 }
 .overview {
   margin-bottom: 20px;
@@ -54,4 +55,11 @@ img {
 }
 .description {
   text-transform: capitalize;
+}
+.active {
+  color: #202124;
+  cursor: default;
+}
+.active:hover {
+  text-decoration: none;
 }
