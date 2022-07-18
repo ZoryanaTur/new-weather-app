@@ -23,8 +23,8 @@ ul {
 }
 .current-temperature-icon {
   margin-right: 5px;
-  height: 64px;
-  width: 64px;
+  height: 120px;
+  width: 120px;
   position: relative;
   top: -15px;
 }
